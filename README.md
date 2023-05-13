@@ -1,2 +1,2 @@
 # react-simple-todo
-Created with CodeSandbox
+Simple todo list using react
